@@ -1,0 +1,5 @@
+# ninja log v6
+3	212	7506048960292462	CMakeFiles/mylib.dir/src/mylib.c.obj	7af8f8ce703bb22d
+23	222	7506048960492449	CMakeFiles/main.dir/src/main.c.obj	5ea8014eec12aa4e
+213	347	7506048962392405	libmylib.a	28db3def28623a54
+347	481	7506048963732334	main.exe	2a0f40e99c87c415

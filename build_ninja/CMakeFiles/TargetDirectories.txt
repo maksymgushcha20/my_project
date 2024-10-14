@@ -1,0 +1,4 @@
+C:/KPI/Git projects/my_project/build_ninja/CMakeFiles/mylib.dir
+C:/KPI/Git projects/my_project/build_ninja/CMakeFiles/main.dir
+C:/KPI/Git projects/my_project/build_ninja/CMakeFiles/edit_cache.dir
+C:/KPI/Git projects/my_project/build_ninja/CMakeFiles/rebuild_cache.dir
